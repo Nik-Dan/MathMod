@@ -1,5 +1,6 @@
 x=1:100
 y=sin(x)
-plot(x,y)
+plot(x,y,col="red")
 
-сat(123)
+
+
